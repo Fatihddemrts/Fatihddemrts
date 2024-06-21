@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fatih-demirtaş-0247a2273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatih-demirta%C5%9F-0247a2273/" height="30" width="40" /></a>
-<a href="https://instagram.com/fatihddmrts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fatihddmrts" height="30" width="40" /></a>
+<a href="https://instagram.com/fatihddemrts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fatihddemrts" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
